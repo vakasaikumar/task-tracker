@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vakasaikumar/task-tracker.git/static/css/main.0fb28126.css",
+    "main.js": "/vakasaikumar/task-tracker.git/static/js/main.7dd1edf2.js",
+    "static/js/453.11ec2e8c.chunk.js": "/vakasaikumar/task-tracker.git/static/js/453.11ec2e8c.chunk.js",
+    "index.html": "/vakasaikumar/task-tracker.git/index.html",
+    "main.0fb28126.css.map": "/vakasaikumar/task-tracker.git/static/css/main.0fb28126.css.map",
+    "main.7dd1edf2.js.map": "/vakasaikumar/task-tracker.git/static/js/main.7dd1edf2.js.map",
+    "453.11ec2e8c.chunk.js.map": "/vakasaikumar/task-tracker.git/static/js/453.11ec2e8c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fb28126.css",
+    "static/js/main.7dd1edf2.js"
+  ]
+}
