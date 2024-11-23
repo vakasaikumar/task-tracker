@@ -68,3 +68,55 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### Task Tracker
+### Project Description
+Task Tracker is a simple React-based application designed to help users manage their daily tasks. It allows you to:
+
+Add new tasks with specific details.
+View all tasks in an organized format.
+Edit task details.
+Delete tasks when no longer needed.
+The app uses React's useState for state management and local storage to persist tasks across sessions. It's styled with CSS for a clean and responsive user experience.
+
+### Features
+### Core Features
+Add Task
+Create tasks with:
+Title (required)
+Description (optional)
+Due Date (required)
+Status (Pending, In Progress, Completed)
+View Tasks
+Display all tasks in a table format with options to edit or delete.
+Edit Task
+Modify existing tasks using a pre-filled form.
+Delete Task
+Remove tasks with a confirmation prompt.
+### Data Persistence
+All task data is stored in the browser's local storage, ensuring tasks remain even after refreshing the page.
+### Responsive Design
+The application adapts to various screen sizes using CSS, making it mobile-friendly.
+### Steps to Clone, Install, and Run the Project
+1. Clone the Repository
+To get a local copy of the project, run the following command in your terminal:
+`git clone https:/githubcomyour-username/task-tracker.git
+cd task-tracker` 
+2. Install Dependencies
+Navigate to the project folder and install the necessary dependencies using npm:
+`npm install`
+3. Run the Application
+Start the development server:
+`npm start`
+The application will launch in your default web browser at:
+`http://localhost:3000`
+
+### Technologies Used
+React: For building the user interface.
+CSS: For styling and responsive design.
+Local Storage: For persisting data across browser sessions.
+### Future Enhancements
+Add filtering and sorting options (e.g., filter by status, sort by due date).
+Implement a global state management system using useContext or Redux.
+Include user authentication for personalized task tracking.
